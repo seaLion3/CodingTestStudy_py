@@ -11,11 +11,6 @@ for i in strData:
 lstChr.sort()
  """
 
-
-
-from unittest import result
-
-
 data = input()
 res = []
 value = 0
